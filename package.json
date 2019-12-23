@@ -1,0 +1,8 @@
+{
+  "name": "ts-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Tuuu/ts-learn.git",
+  "author": "Tuuu <tutengfei1994@gmail.com>",
+  "license": "MIT"
+}
